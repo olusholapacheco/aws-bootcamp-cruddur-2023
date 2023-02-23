@@ -27,14 +27,14 @@ https://lucid.app/lucidchart/e1294886-70f7-4e37-a34b-dacd02676f47/edit?viewport_
 
 Netweork time out. The whole nation experienced network black outs for hours and days intermittently
 Didn't read instructions and failed at the end during the cloudwatch set up
-Realized I had saved the json files in the wrong folder.
+Realized I had saved the json files in the wrong folder and got the error below. everything else worked until this point. 
 
 ![bootcamp glitch](https://user-images.githubusercontent.com/124564201/220833202-4a2c6ae4-31ed-4ea7-be2d-9eda691cda01.PNG)
 
-#Thankful for the previous error, now I know how to do it
+Thankful for the previous error, now I know how to do it
 
-#Another little challenge, realized I am soon to max out on my gitpod credits. But there us is always a way.
+Another little challenge, realized I am soon to max out on my gitpod credits. But there us is always a way.
 
-#So far, this is such rich knowledge I hope I can one day say thank you
+So far, this is such rich knowledge I hope I can one day say thank you
 
 
