@@ -16,8 +16,9 @@ Added gitpod extension to browser and was able to get the gitpod button on my gi
 Used cloudshell, even though I have used both the cloudshell and AWS CLI before 
 Re-installed AWS CLI on my local machine
 
-Create a Budget -
+Used sts get-caller-identity to pull up my user details (equivalent of whoami in linux). It shows User ID, ARN and more. Also set up aws configure to ensure I don't have to enter details everytime I use AWS on the CLI
 
+Create a Budget - Cropped out part of my user account number for safety.
 ![budgets](https://user-images.githubusercontent.com/124564201/220837040-f7aa70bf-6e8a-432d-bb3e-b72fb35e0e75.png)
 
 Used sts get-caller-identity to pull up my user details (equivalent of whoami in linux). It shows User ID, ARN and more
