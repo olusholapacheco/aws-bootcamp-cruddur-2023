@@ -6,6 +6,8 @@ This is my first time of using Github and this stuff is candy store cool kind of
 
 What I achieved in week 0:
 
+Install and Verify AWS CLI-
+
 I set up MFA for my AWS root account again. Moved from google authenticator to Authy, this way I don't lose my access if I lose my phone
 Set up permissions for my admin/user account to view billing and create billing
 Set up access keys for my user account
@@ -13,6 +15,10 @@ Added gitpod extension to browser and was able to get the gitpod button on my gi
 
 Used cloudshell, even though I have used both the cloudshell and AWS CLI before 
 Re-installed AWS CLI on my local machine
+
+Create a Budget -
+
+![budgets](https://user-images.githubusercontent.com/124564201/220837040-f7aa70bf-6e8a-432d-bb3e-b72fb35e0e75.png)
 
 Used sts get-caller-identity to pull up my user details (equivalent of whoami in linux). It shows User ID, ARN and more
 
