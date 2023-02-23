@@ -16,7 +16,10 @@
 #My challenges.
 #Netweork time out.
 #Didn't read instructions and failed at the end during the cloudwatch set up
-#Realized I had saved the json files in the wrong folder. 
+#Realized I had saved the json files in the wrong folder.
+
+![bootcamp glitch](https://user-images.githubusercontent.com/124564201/220833202-4a2c6ae4-31ed-4ea7-be2d-9eda691cda01.PNG)
+
 #Thankful for the previous error, now I know how to do it
 
 #Another little challenge, realized I am soon to max out on my gitpod credits. But there us is always a way.
