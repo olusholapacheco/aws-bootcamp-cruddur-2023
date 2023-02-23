@@ -10,7 +10,8 @@ I set up MFA for my AWS root account again. Moved from google authenticator to A
 Set up permissions for my admin/user account to view billing and create billing
 Set up access keys for my user account
 Added gitpod extension to browser and was able to get the gitpod button on my github account using the edge browser, it doesn't comsume as much data as chrome
-Used cloudshell 
+
+Used cloudshell, even though I have used both the cloudshell and AWS CLI before 
 Re-installed AWS CLI on my local machine
 
 Used sts get-caller-identity to pull up my user details (equivalent of whoami in linux). It shows User ID, ARN and more
