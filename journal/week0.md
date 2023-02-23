@@ -40,6 +40,10 @@ Realized I had saved the json files in the wrong folder and got the error below.
 
 Thankful for the previous error, now I know how to do it
 
+Billing alarm challenge. I followed the tutorial video which had a 1$ limit per day, I forgot to change that, now I have an alarm I have to figure out how to increase the limit. I have a little fear of messing things up.
+
+![alarm](https://user-images.githubusercontent.com/124564201/220837950-0a8de12f-2810-44a8-9dd7-442154736aa6.png)
+
 Another little challenge, realized I am soon to max out on my gitpod credits. But there us is always a way.
 
 So far, this is such rich knowledge I hope I can one day say thank you
